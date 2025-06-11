@@ -1,3 +1,4 @@
+
 import type Metadata from 'next'; // Import tipe Metadata
 import "./globals.css";
 import { SharedStateProvider } from '@/context/SharedStateContext';
